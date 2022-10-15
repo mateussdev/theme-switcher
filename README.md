@@ -26,7 +26,10 @@ E escolher uma das opções abaixo:
 
 ![image](https://user-images.githubusercontent.com/58476531/196011134-eebe16b0-9c96-4de1-9edb-451879ff1136.png)
 
+# Pré-requisitos
 
+- Editor de código
+- Navegador web
 
 # 🛠️ Abrir e rodar o projeto
 
