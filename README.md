@@ -51,3 +51,9 @@ O Vscode irá abrir o projeto, e depois você pode ver, modificar, melhorar e te
 
 | [<img src="https://github.com/mateussdev.png" width=115><br><sub>Mateus Silva</sub>](https://github.com/mateussdev) | 
 | :---: |
+
+# Licença
+
+The [MIT License](https://github.com/mateussdev/theme-switcher/blob/main/LICENSE) (MIT)
+
+Copyright (c) 2022 - Theme Switcher
